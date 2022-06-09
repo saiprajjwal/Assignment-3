@@ -34,7 +34,9 @@ for (let c of similarKey) {
 const result = getSimilar(arr, "duel");
 const result2 = getSimilar(arr, "speed");
 const result3 = getSimilar(arr, "cars");
+const result4 = getSimilar(arr, "shpea");
 
 console.log(result);
 console.log(result2);
 console.log(result3);
+console.log(result4);
